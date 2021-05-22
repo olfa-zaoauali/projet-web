@@ -1,0 +1,27 @@
+#imgbody{
+   
+    background-position: top;
+    background-repeat: no-repeat;
+
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-style: italic;
+    font-size: 60px;
+
+
+}
+.droite{
+    float: right;
+    color: black;
+    background-color: rgb(150, 197, 209);
+    height: 90%;;
+    
+}
+p{
+    text-align: center;
+    text-indent:5%;
+    font-style: oblique;
+    font-weight: 600;
+}
